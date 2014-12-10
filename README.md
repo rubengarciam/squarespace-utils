@@ -4,9 +4,9 @@ squarespace-utils
 
 A bunch of utils that I've been creating along the way.
 
-# Scripts
+## Scripts
 
-## Images Gallery with Titles
+### image-gallery-with-titles
 
 Displays the image file name as a title at the bottom of the image container.
 
